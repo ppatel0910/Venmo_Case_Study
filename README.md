@@ -17,7 +17,7 @@ website analytics tool called Swooge and a web based music selling platform, Phi
 
 
 ### How is the company funded?
-The company received an initial investment of $1.2 million in 2010, in 2012 they were acquired for $26.2 million. A year later, Braintree was acquired by PayPal for $800 million. Currently, they are steadily growing under PayPal.
+The company received an initial investment of $1.2 million in 2010 from various sources such as, but not limited to, Betaworks, IA Ventures, Lerer Hippeau, and angel investors. In 2012 they were acquired for $26.2 million by Braintree. A year later, Braintree was acquired by PayPal for $800 million. Currently, they are steadily growing under PayPal.
 
 ## Business Activities
 ### What specific financial problem is the company trying to solve?
