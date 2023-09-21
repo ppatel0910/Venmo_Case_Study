@@ -27,6 +27,34 @@ From its inception, Venmo had always intended to be a SMS-based communication an
 Venmo was originally designed to be used amongst family and friends, but since has expanded to service businesses and offer products such as the Venmo Mastercard Debit Card. The applications users are primarily Millennials and Gen Z, but “is used by a majority of U.S. adults (57%)”. Younger users are attracted to the convenience of the application. Venmo is expanding its customer base to teenagers because “The company has estimated that before the new Teen Account was launched, 9 million teenagers were using Venmo through their parents”. The number of users is "predicted to rise by 7.2% and 6.5%, to a total of 91.2 million and 97.1 million in 2024 and 2025, respectively”.
 
 ### What solution does this company offer that their competitors do not or cannot offer?
+Venmo offers a social platform through their mobile app their competitors do not. Users are able to view public transactions made by their social circle, which makes the app more popular amongst Millennials. While some find the social element appealing, an individual's financial transactions are on display which others view as an invasion of privacy.
+
+### Which technologies are they currently using, and how are they implementing them?
+Venmo is a fast-moving, multinational corporation with hundreds of employees and teams. To enable efficiency, Venmo lets teams choose the technologies they use and how they implement them, resulting in nearly thousands that are nameable. Many of these are listed on their GitHub engineering blog, although a bit outdated. Nonetheless, other more current sources suggest Venmo uses well-known Fintech APIs like Dosh and Plaid. I believe these are the most notable technologies to highlight as a result of their instrumentality in Venmo’s tech stack, as these two companies allow Venmo to interact with various banks, seamlessly, by automating the work surrounding compliance and uniformity across the many banks customers need access to. Below is a list of a variety of "open source libraries" Venmo utilizes.  
+
+
+## Landscape
+### What domain of the financial industry is the company in?
+
+### What have been the major trends and innovations of this domain over the last 5-10 years?
+
+### What are the other major companies in this domain?
+
+## Results
+### What has been the business impact of this company so far?
+
+### What are some of the core metrics that companies in this domain use to measure success? How is your company performing based on these metrics?
+
+### How is your company performing to competitors in the same domain?
+
+## Recommendations
+### If you were to advise the company, what products or services would you suggest they offer?
+
+### Why do you think offering this product or service would benefit the company?
+
+### What technologies would this additional product or service utilize?
+
+### Why are these technologies appropriate for your solution?
 
 
 
