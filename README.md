@@ -24,18 +24,9 @@ The company received an initial investment of $1.2 million in 2010 from various 
 From its inception, Venmo had always intended to be a SMS-based communication and transfer service, initially focused on files. In Origins of Venmo, Kortina writes of a moment where his co-founder lost his wallet, leading to the two struggling to finalize their account balances after Kortina covered for his co-founder during the course of a weekend of going out. After contemplating the painstaking departure of “[finding] a checkbook… and [going] to the bank… to cash it” and realizing the lack of incentive to use PayPal, the idea for Venmo was born. Andrew Kortina and Iqram Magdon-Ismail set out to “build a way to pay each other back that [felt] consistent with all of the other experiences [they used] in apps we use with [their] friends.” By filling this now seemingly saturated vertical, the two took the first steps and paved the way for other payments and transactions applications, eventually leading to one of Fintech’s most focused-on trends at the moment: mobile banking. Accordingly, Venmo too, has shifted its focus, and now, ironically, allows users to cash checks with a few photos. These features of Venmo have been successful in realizing the co-founders’ objective of streamlining online transactions.
 
 ### Who is the company's intended customer? Is there any information about the market size of this set of customers?
-Venmo was originally designed to be used amongst family and friends, but since has expanded to service businesses and offer products such as the Venmo Mastercard Debit Card. The applications users are primarily Millennials and Gen Z, but “is used by a majority of U.S. adults (57%)”. Younger users are attracted to the convenience of the application. Venmo is expanding its customer base to teenagers because “The company has estimated that before the new Teen Account was launched, 9 million teenagers were using Venmo through their parents”.
+Venmo was originally designed to be used amongst family and friends, but since has expanded to service businesses and offer products such as the Venmo Mastercard Debit Card. The applications users are primarily Millennials and Gen Z, but “is used by a majority of U.S. adults (57%)”. Younger users are attracted to the convenience of the application. Venmo is expanding its customer base to teenagers because “The company has estimated that before the new Teen Account was launched, 9 million teenagers were using Venmo through their parents”. The number of users is "predicted to rise by 7.2% and 6.5%, to a total of 91.2 million and 97.1 million in 2024 and 2025, respectively”.
 
 ### What solution does this company offer that their competitors do not or cannot offer?
-
-
-
-
-
-
-
-
-
 
 
 
