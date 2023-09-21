@@ -23,6 +23,9 @@ The company received an initial investment of $1.2 million in 2010, in 2012 they
 ### What specific financial problem is the company trying to solve?
 From its inception, Venmo had always intended to be a SMS-based communication and transfer service, initially focused on files. In Origins of Venmo, Kortina writes of a moment where his co-founder lost his wallet, leading to the two struggling to finalize their account balances after Kortina covered for his co-founder during the course of a weekend of going out. After contemplating the painstaking departure of “[finding] a checkbook… and [going] to the bank… to cash it” and realizing the lack of incentive to use PayPal, the idea for Venmo was born. Andrew Kortina and Iqram Magdon-Ismail set out to “build a way to pay each other back that [felt] consistent with all of the other experiences [they used] in apps we use with [their] friends.” By filling this now seemingly saturated vertical, the two took the first steps and paved the way for other payments and transactions applications, eventually leading to one of Fintech’s most focused-on trends at the moment: mobile banking. Accordingly, Venmo too, has shifted its focus, and now, ironically, allows users to cash checks with a few photos. These features of Venmo have been successful in realizing the co-founders’ objective of streamlining online transactions.
 
+### Who is the company's intended customer? Is there any information about the market size of this set of customers?
+
+
 
 
 
