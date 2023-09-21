@@ -8,6 +8,7 @@ Venmo is a peer to peer payment service company owned by Paypal. The current val
 Venmo was founded in August 2009, and was publicly launched in March 2012.
 
 ### Who are the founders of the company?
+Andrew Kortina and Iqram Magdon-Ismail are co-founders of Venmo. They originally met freshman year at the University of Pennsylvania. They were assigned as random roommates, and the pair were both studying computer science at the start of college. Although Kortina ended up studying in “Philosophy and Creative Writing and minors in Computer Science and Logic”, he kept an interest in computer science.
 
 
 
