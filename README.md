@@ -13,7 +13,7 @@ Andrew Kortina and Iqram Magdon-Ismail are co-founders of Venmo. They originally
 ### How did the idea for the company come about?
 Upon graduation, Kortina and Magdon-Ismail built websites for small businesses in West Philly. Simultaneously during this period the pair worked on startup projects such as “a realtime
 website analytics tool called Swooge and a web based music selling platform, Philafunk.” Kortina moved on to work at Betaworks, and Magdon-Ismail worked for Ticketleap. Both were ready to work on a project of their own, which led to them meeting on the weekends to work on potential ideas.The idea for the company was born when Magdon-Ismail visited Kortina in New York City, and forgot his wallet in Philadelphia. Kortina paid for Magdon-Ismail expenses for the weekend, and Magdon-Ismail paid Kortina back via check. The process of writing and later depositing the check was a nuisance to both parties, which led both to believe there should be a better way to send money to each other. Paypal was available, but not utilized by the pair or any of their friends. The duo set out to solve this problem, which led to the first prototype of Venmo which was through SMS.
-![image_venmo_prototype](pictures/venmo_prototype.png)
+![image_of venmo_prototype](venmo_prototype.png)
 
 
 ### How is the company funded?
@@ -25,12 +25,14 @@ From its inception, Venmo had always intended to be a SMS-based communication an
 
 ### Who is the company's intended customer? Is there any information about the market size of this set of customers?
 Venmo was originally designed to be used amongst family and friends, but since has expanded to service businesses and offer products such as the Venmo Mastercard Debit Card. The applications users are primarily Millennials and Gen Z, but “is used by a majority of U.S. adults (57%)”. Younger users are attracted to the convenience of the application. Venmo is expanding its customer base to teenagers because “The company has estimated that before the new Teen Account was launched, 9 million teenagers were using Venmo through their parents”. The number of users is "predicted to rise by 7.2% and 6.5%, to a total of 91.2 million and 97.1 million in 2024 and 2025, respectively”.
+![chart of venmo users](venmo_users.png)
 
 ### What solution does this company offer that their competitors do not or cannot offer?
 Venmo offers a social platform through their mobile app their competitors do not. Users are able to view public transactions made by their social circle, which makes the app more popular amongst Millennials. While some find the social element appealing, an individual's financial transactions are on display which others view as an invasion of privacy.
 
 ### Which technologies are they currently using, and how are they implementing them?
-Venmo is a fast-moving, multinational corporation with hundreds of employees and teams. To enable efficiency, Venmo lets teams choose the technologies they use and how they implement them, resulting in nearly thousands that are nameable. Many of these are listed on their GitHub engineering blog, although a bit outdated. Nonetheless, other more current sources suggest Venmo uses well-known Fintech APIs like Dosh and Plaid. I believe these are the most notable technologies to highlight as a result of their instrumentality in Venmo’s tech stack, as these two companies allow Venmo to interact with various banks, seamlessly, by automating the work surrounding compliance and uniformity across the many banks customers need access to. Below is a list of a variety of "open source libraries" Venmo utilizes.  
+Venmo is a fast-moving, multinational corporation with hundreds of employees and teams. To enable efficiency, Venmo lets teams choose the technologies they use and how they implement them, resulting in nearly thousands that are nameable. Many of these are listed on their GitHub engineering blog, although a bit outdated. Nonetheless, other more current sources suggest Venmo uses well-known Fintech APIs like Dosh and Plaid. I believe these are the most notable technologies to highlight as a result of their instrumentality in Venmo’s tech stack, as these two companies allow Venmo to interact with various banks, seamlessly, by automating the work surrounding compliance and uniformity across the many banks customers need access to. Below is a list of a variety of "open source libraries" Venmo utilizes. 
+![image of open source libraries used by Venmo](venmo_tech.png)
 
 
 ## Landscape
