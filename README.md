@@ -35,10 +35,14 @@ Venmo is a fast-moving, multinational corporation with hundreds of employees and
 
 ## Landscape
 ### What domain of the financial industry is the company in?
+Venmo is within the peer-to-peer payments and transactions domain of the financial industry.
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
 
+
 ### What are the other major companies in this domain?
+Venmo was at the forefront of P2P payment services, but a plethora of competitors have emerged since its inception. Venmo’s main competitor is Zelle, which is owned by a collective of U.S. banks, and offers a similar service. Through Zelle users can send money online directly to the recipient's bank account free of charge. Zelle also has the added convenience of not requiring the user to download its app, one can simply use Zelle through their financial institutions app. Another major competitor to Venmo is Cashapp. It is another P2P payment app based in the U.S., that offers transactions between users at no cost. Cashapp “also offers the option to purchase stocks and bitcoin through its platform”. Apple also launched its own payment service Apple Cash in 2017. Apple cash allows users to send money via messages, which is similar to the first prototype of Venmo. Other competitors include, but are not limited to, Google Pay, PayPal, Samsung Pay, Stripe, and Square Cash. 
+
 
 ## Results
 ### What has been the business impact of this company so far?
